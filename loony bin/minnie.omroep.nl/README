@@ -1,1 +1,65 @@
-https://www.geoiptool.de/ip/145.58.30.4
+inetnum:        145.58.0.0 - 145.58.255.255
+netname:        PUBLIEKE-OMROEP
+descr:          Publieke Omroep Nederland
+country:        NL
+org:            ORG-NOS2-RIPE
+admin-c:        NPON1-RIPE
+admin-c:        BW3792-RIPE
+tech-c:         NPON1-RIPE
+tech-c:         BW3792-RIPE
+abuse-c:        NPO-RIPE
+status:         LEGACY
+mnt-by:         PUBLIEKE-OMROEP-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2020-04-01T16:32:20Z
+source:         RIPE # Filtered
+
+organisation:   ORG-NOS2-RIPE
+org-name:       Stichting Nederlandse Publieke Omroep
+org-type:       LIR
+address:        Bart de Graaffweg 2
+address:        1217ZL
+address:        Hilversum
+address:        NETHERLANDS
+phone:          +31356773555
+fax-no:         +31356246841
+admin-c:        BW3792-RIPE
+mnt-ref:        PUBLIEKE-OMROEP-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         PUBLIEKE-OMROEP-MNT
+abuse-c:        NPO-RIPE
+tech-c:         BW3792-RIPE
+admin-c:        NPON1-RIPE
+tech-c:         NPON1-RIPE
+created:        2008-04-14T10:27:16Z
+last-modified:  2020-04-01T15:45:21Z
+source:         RIPE # Filtered
+
+role:           Nederlandse Publieke Omroep NOC
+address:        Postbus 26444, 1202 JJ Hilversum, The Netherlands
+nic-hdl:        NPON1-RIPE
+mnt-by:         PUBLIEKE-OMROEP-MNT
+created:        2020-04-01T15:40:30Z
+last-modified:  2020-04-01T15:40:30Z
+source:         RIPE # Filtered
+
+person:         Bram Wittendorp
+org:            ORG-NOS2-RIPE
+address:        Bart de Graaffweg 2
+address:        1217 ZL Hilversum
+address:        The Netherlands
+phone:          +31 35 677 25 97
+nic-hdl:        BW3792-RIPE
+mnt-by:         PUBLIEKE-OMROEP-MNT
+created:        2020-04-01T10:44:45Z
+last-modified:  2020-04-02T05:59:57Z
+source:         RIPE # Filtered
+
+route:          145.58.0.0/16
+descr:          Publieke Omroep Nederland
+origin:         AS25182
+mnt-by:         PUBLIEKE-OMROEP-MNT
+created:        2003-04-08T11:29:42Z
+last-modified:  2005-01-11T15:12:16Z
+source:         RIPE # Filtered
